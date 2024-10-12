@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/pypi-webludus-blue?logo=pypi&link=https%3A%2F%2Fpypi.org%2Fuser%2Fwebludus)
+[![PyPI](https://img.shields.io/badge/pypi-webludus-blue?logo=pypi)](https://pypi.org/user/webludus/)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hello!
 
 Glad to see you here! I’m a Quality Assurance Engineer and Software Developer with a strong 
