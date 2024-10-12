@@ -60,6 +60,7 @@ them accessible, simplifying challenges, and constantly learning new things.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white)
+![Magento](https://img.shields.io/static/v1?message=Magento&color=EE672F&logo=Magento&logoColor=FFFFFF&label=)
 
 ### Let's connect!
 [![PyPI](https://img.shields.io/badge/pypi-webludus-blue?logo=pypi)](https://pypi.org/user/webludus/)
