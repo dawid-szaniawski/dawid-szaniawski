@@ -37,6 +37,6 @@ them accessible, simplifying challenges, and constantly learning new things.
 
 
 ### Let's connect!
-Add me on [LinkedIn]([https://www.linkedin.com/in/dawid-szaniawski])! 
+Add me on [LinkedIn](https://www.linkedin.com/in/dawid-szaniawski)! 
 
-Everything about me and my projects are also available on [my website]([https://daniel.haxx.se](https://webludus.pl/en)).
+Everything about me and my projects are also available on [my website](https://webludus.pl/en).
