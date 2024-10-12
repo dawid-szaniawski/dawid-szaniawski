@@ -63,8 +63,10 @@ them accessible, simplifying challenges, and constantly learning new things.
 ![Magento](https://img.shields.io/static/v1?message=Magento&color=EE672F&logo=Magento&logoColor=FFFFFF&label=)
 
 ### Let's connect!
-[![PyPI](https://img.shields.io/badge/pypi-webludus-blue?logo=pypi)](https://pypi.org/user/webludus/)
 
 Add me on [LinkedIn](https://www.linkedin.com/in/dawid-szaniawski)! 
 
 Everything about me and my projects are also available on [my website](https://webludus.pl/en).
+
+
+[![PyPI](https://img.shields.io/badge/pypi-webludus-blue?logo=pypi)](https://pypi.org/user/webludus/)
